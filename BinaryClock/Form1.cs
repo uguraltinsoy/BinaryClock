@@ -334,5 +334,10 @@ namespace BinaryClock
                 panels[3, 5].BackColor = Color.Orange;
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
