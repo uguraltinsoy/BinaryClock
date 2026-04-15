@@ -1,5 +1,8 @@
 # Binary Clock With C#
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-uguraltinsoy-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/uguraltinsoy)
+
+
 <p align="center"><img src="img/clock.gif"/></p>
 
 ### Developers
